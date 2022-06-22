@@ -1,0 +1,5 @@
+Flask==1.1.4
+Werkzeug==1.0.1
+markupsafe==2.0.1
+Flask-Cors==3.0.10
+Boto3==1.24.13
